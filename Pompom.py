@@ -421,7 +421,7 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif syed in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/shuvo.love.u.420
+			os.system("xdg-open https://youtube.com/channel/UCI2A0fpKv3-Dqg4BIGTmhUw")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Your Ex Gf Name")
